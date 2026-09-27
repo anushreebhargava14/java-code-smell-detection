@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# External tools
+tools/*.jar
+
+# Environment variables / secrets
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
