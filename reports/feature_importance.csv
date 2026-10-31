@@ -1,0 +1,149 @@
+smell,feature,value,kind
+Blob (God Class),loc,0.14257791322851898,importance
+Blob (God Class),rfc,0.08907325566092282,importance
+Blob (God Class),wmc,0.07568850851188412,importance
+Blob (God Class),variablesQty,0.0688649196798902,importance
+Blob (God Class),assignmentsQty,0.06379733422416835,importance
+Blob (God Class),uniqueWordsQty,0.06287089214535892,importance
+Blob (God Class),comparisonsQty,0.045542116231277616,importance
+Blob (God Class),cboModified,0.03885547660119501,importance
+Blob (God Class),fanout,0.03643501819313451,importance
+Blob (God Class),maxNestedBlocksQty,0.03393952711719543,importance
+Blob (God Class),cbo,0.032775932699714135,importance
+Blob (God Class),stringLiteralsQty,0.031756422309730456,importance
+Blob (God Class),mathOperationsQty,0.02288076757106028,importance
+Blob (God Class),numbersQty,0.020199014295567114,importance
+Blob (God Class),totalMethodsQty,0.01764320814705026,importance
+Blob (God Class),lcom,0.01762416709009822,importance
+Blob (God Class),returnQty,0.017600927958803428,importance
+Blob (God Class),visibleMethodsQty,0.01632544649633834,importance
+Blob (God Class),publicMethodsQty,0.01477501804002916,importance
+Blob (God Class),loopQty,0.013989675168823752,importance
+Blob (God Class),privateMethodsQty,0.012499717818758659,importance
+Blob (God Class),totalFieldsQty,0.011571179668382127,importance
+Blob (God Class),privateFieldsQty,0.010113592688361237,importance
+Blob (God Class),nosi,0.009258711695786204,importance
+Blob (God Class),innerClassesQty,0.008773304098528535,importance
+Blob (God Class),finalFieldsQty,0.007903607440983978,importance
+Blob (God Class),staticFieldsQty,0.007855337674259388,importance
+Blob (God Class),modifiers,0.0075709018501789295,importance
+Blob (God Class),logStatementsQty,0.006499417738435955,importance
+Blob (God Class),fanin,0.006220685914459447,importance
+Blob (God Class),tryCatchQty,0.006158067685670728,importance
+Blob (God Class),parenthesizedExpsQty,0.006047219654716518,importance
+Blob (God Class),anonymousClassesQty,0.005473781797086184,importance
+Blob (God Class),staticMethodsQty,0.00528220467161749,importance
+Blob (God Class),dit,0.005003993082235661,importance
+Blob (God Class),protectedMethodsQty,0.004608906779233779,importance
+Blob (God Class),publicFieldsQty,0.0039819219835118365,importance
+Blob (God Class),defaultMethodsQty,0.003757384478143754,importance
+Blob (God Class),protectedFieldsQty,0.0022792255335618928,importance
+Blob (God Class),defaultFieldsQty,0.0018104284905349965,importance
+Blob (God Class),finalMethodsQty,0.0016962610632541115,importance
+Blob (God Class),lambdasQty,0.0014195974407929229,importance
+Blob (God Class),abstractMethodsQty,0.0007900987630101323,importance
+Blob (God Class),synchronizedMethodsQty,0.00020891061773457983,importance
+Blob (God Class),noc,0.0,importance
+Data Class,totalFieldsQty,2.258010710436648,coefficient
+Data Class,totalMethodsQty,1.1171916904314567,coefficient
+Data Class,rfc,-1.0816204081564391,coefficient
+Data Class,variablesQty,-0.9757110818819076,coefficient
+Data Class,wmc,-0.9121810683582773,coefficient
+Data Class,staticFieldsQty,-0.7079743918548342,coefficient
+Data Class,publicMethodsQty,0.6524831595534332,coefficient
+Data Class,returnQty,0.6001613566695811,coefficient
+Data Class,assignmentsQty,0.5422086540370772,coefficient
+Data Class,innerClassesQty,0.4026496568761896,coefficient
+Data Class,publicFieldsQty,0.4018497138892762,coefficient
+Data Class,staticMethodsQty,-0.3976031831503028,coefficient
+Data Class,loc,-0.3598881461566395,coefficient
+Data Class,cbo,-0.29968423852260306,coefficient
+Data Class,fanout,-0.29968423852260306,coefficient
+Data Class,protectedFieldsQty,0.2842999749110764,coefficient
+Data Class,synchronizedMethodsQty,-0.25884783973355036,coefficient
+Data Class,uniqueWordsQty,-0.2376660817492421,coefficient
+Data Class,finalFieldsQty,-0.22429330115744173,coefficient
+Data Class,numbersQty,-0.22241221586741158,coefficient
+Data Class,visibleMethodsQty,0.2140051415940285,coefficient
+Data Class,privateFieldsQty,0.20749079783986346,coefficient
+Data Class,nosi,-0.2072097231366177,coefficient
+Data Class,anonymousClassesQty,-0.206093874962199,coefficient
+Data Class,finalMethodsQty,-0.19061221552943927,coefficient
+Data Class,comparisonsQty,0.17152806055419306,coefficient
+Data Class,protectedMethodsQty,-0.1705638692998681,coefficient
+Data Class,lcom,-0.15943267628221386,coefficient
+Data Class,abstractMethodsQty,-0.14918601598000333,coefficient
+Data Class,mathOperationsQty,0.13213950771785773,coefficient
+Data Class,dit,-0.11952681082938894,coefficient
+Data Class,defaultFieldsQty,-0.09969399151370578,coefficient
+Data Class,loopQty,0.09145489396819557,coefficient
+Data Class,stringLiteralsQty,-0.08000102917326342,coefficient
+Data Class,defaultMethodsQty,0.06504579475065048,coefficient
+Data Class,modifiers,-0.06418239696550096,coefficient
+Data Class,logStatementsQty,0.06133400276563187,coefficient
+Data Class,parenthesizedExpsQty,0.05296838648452943,coefficient
+Data Class,lambdasQty,-0.046517839054340565,coefficient
+Data Class,noc,0.04634861000424914,coefficient
+Data Class,tryCatchQty,0.04056742195258812,coefficient
+Data Class,maxNestedBlocksQty,0.022545822333071185,coefficient
+Data Class,privateMethodsQty,0.019105539050272676,coefficient
+Data Class,cboModified,-0.019009930103827035,coefficient
+Data Class,fanin,-0.0025202699602072907,coefficient
+Feature Envy,loc,1.8460656650165481,coefficient
+Feature Envy,assignmentsQty,-1.155482609967992,coefficient
+Feature Envy,maxNestedBlocksQty,-1.0625447598284077,coefficient
+Feature Envy,wmc,0.8890208159588742,coefficient
+Feature Envy,rfc,0.8766711684552826,coefficient
+Feature Envy,methodsInvokedQty,0.8766711684552826,coefficient
+Feature Envy,cboModified,0.7797838424392678,coefficient
+Feature Envy,fanout,-0.7119167354095132,coefficient
+Feature Envy,loopQty,-0.6236476608965359,coefficient
+Feature Envy,cbo,0.5424759334636118,coefficient
+Feature Envy,fanin,-0.5158553735174757,coefficient
+Feature Envy,parametersQty,0.44610378617990687,coefficient
+Feature Envy,returnsQty,-0.40650135041076263,coefficient
+Feature Envy,modifiers,0.32910986012258653,coefficient
+Feature Envy,constructor,-0.2811708826346124,coefficient
+Feature Envy,methodsInvokedIndirectLocalQty,-0.2213559101744615,coefficient
+Feature Envy,methodsInvokedLocalQty,-0.2004766492565876,coefficient
+Feature Envy,mathOperationsQty,-0.20018104545769594,coefficient
+Feature Envy,variablesQty,0.18873675936427475,coefficient
+Feature Envy,logStatementsQty,-0.1555900866275447,coefficient
+Feature Envy,anonymousClassesQty,0.14438852416976622,coefficient
+Feature Envy,lambdasQty,0.1296797835882653,coefficient
+Feature Envy,hasJavaDoc,-0.11613559223811569,coefficient
+Feature Envy,parenthesizedExpsQty,0.09681157936619318,coefficient
+Feature Envy,stringLiteralsQty,-0.06076213246599556,coefficient
+Feature Envy,numbersQty,0.03735859246300694,coefficient
+Feature Envy,uniqueWordsQty,0.034286052731244146,coefficient
+Feature Envy,tryCatchQty,-0.022730217597610777,coefficient
+Feature Envy,comparisonsQty,-0.0195962886717501,coefficient
+Long Method,loc,0.27488357995670104,importance
+Long Method,wmc,0.1191679739541078,importance
+Long Method,assignmentsQty,0.11224361903672127,importance
+Long Method,rfc,0.09598075844576251,importance
+Long Method,methodsInvokedQty,0.08494244719067882,importance
+Long Method,variablesQty,0.06723006537046793,importance
+Long Method,maxNestedBlocksQty,0.059682859243825326,importance
+Long Method,uniqueWordsQty,0.0403670712987887,importance
+Long Method,stringLiteralsQty,0.022541941834756638,importance
+Long Method,comparisonsQty,0.02112795567094409,importance
+Long Method,cbo,0.016323286766499964,importance
+Long Method,numbersQty,0.012818724272130105,importance
+Long Method,mathOperationsQty,0.009746553817055999,importance
+Long Method,loopQty,0.008337788579066247,importance
+Long Method,cboModified,0.007069913121684397,importance
+Long Method,returnsQty,0.006997174486754668,importance
+Long Method,modifiers,0.006698097153176476,importance
+Long Method,parametersQty,0.005982901401441913,importance
+Long Method,fanin,0.004204662108754031,importance
+Long Method,methodsInvokedIndirectLocalQty,0.00409869419463619,importance
+Long Method,fanout,0.0036017949156477236,importance
+Long Method,parenthesizedExpsQty,0.0035201460954916624,importance
+Long Method,methodsInvokedLocalQty,0.003400811350021216,importance
+Long Method,tryCatchQty,0.0032834747335002763,importance
+Long Method,anonymousClassesQty,0.0020247176576563383,importance
+Long Method,logStatementsQty,0.001671462608577956,importance
+Long Method,hasJavaDoc,0.0014745671680247469,importance
+Long Method,constructor,0.00042357592840675386,importance
+Long Method,lambdasQty,0.00015338163871927594,importance

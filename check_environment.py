@@ -32,13 +32,15 @@ def check_java():
             capture_output=True,
             text=True,
         )
+        # java -version prints to stderr, not stdout
         output = result.stderr or result.stdout
         first_line = output.strip().split("\n")[0]
         print(f"Java: {first_line}")
         print("  OK")
     except FileNotFoundError:
         print("Java: NOT FOUND")
-        print("  You will need Java (JDK 8+) installed before Stage 2.")
+        print("  You will need Java (JDK 8+) installed before Stage 2 "
+              "(metrics extraction tools like DesigniteJava/CK require it).")
 
 
 def check_git():

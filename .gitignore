@@ -1,23 +1,32 @@
-# Virtual environment
+# Python
 venv/
 __pycache__/
 *.pyc
 
-# Data
-data/raw/
-data/interim/
-data/processed/
-
-# External tools
-tools/*.jar
-
-# Environment variables / secrets
+# Secrets
 .env
+.env.*
+!.env.example
 
-# OS/editor files
-.DS_Store
+# Editor
 .vscode/
-.idea/
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
+# Temporary files
+diag_out.txt
+mapping_out.txt
+recover_out.txt
+
+# ZIP files
+smell-check-frontend.zip
+smellscope-ai.zip
+
+# Old frontend versions
+frontend_backup/
+frontend.pre-smellscope/
+smellscope-ai-preview/
+tools/apache-maven-3.9.12/
+tools/maven.zip
+data/raw/source_files/
+data/interim/
+api/*.backup
+api/*.pre-smellscope

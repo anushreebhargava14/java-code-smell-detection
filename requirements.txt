@@ -1,2 +1,11 @@
 requests
 python-dotenv
+pandas
+openpyxlscikit-learn
+matplotlib
+fastapi
+uvicorn
+python-multipart
+fastapi
+uvicorn
+python-multipart
